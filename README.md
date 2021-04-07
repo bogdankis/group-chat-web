@@ -1,5 +1,5 @@
 # chat-app
-Group chat UI developed with Html, TailwindCSS,Vue.js,VueX, Vue Router,
+Group chat UI realizat cu Html, TailwindCSS, Vue.js,VueX, Vue Router,
 
 ***How does it work***
 <p> 1. Introduceti numele de utilizator</p>
